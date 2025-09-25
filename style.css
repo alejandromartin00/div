@@ -1,0 +1,21 @@
+#top {
+    color:black;
+    text-align: center;
+    background-color: brown;
+    width: 50%;
+    margin: auto;
+}
+
+
+#enlaces{
+    color:black;
+    text-align: center;
+    background-color: blue;
+    width: 30%;
+}
+
+ul {
+    list-style: none;   /* quita los puntos */
+    padding-left: 0;    /* quita el hueco extra */
+  }
+  

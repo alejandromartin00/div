@@ -1,0 +1,44 @@
+#top {
+    color:black;
+    text-align: center;
+    background-color: brown;
+    flex:1;
+}
+
+
+#enlaces{
+    color: white;
+    text-align: center;
+    background-color: black;
+    width: 20%;
+
+}
+#enlaces a{
+    color: white;
+    text-align: center;
+    width: 20%;
+
+}
+
+#contenido{
+    display:flex;
+
+}
+
+
+
+ul {
+    list-style: none;   /* quita los puntos */
+    padding-left: 0;    /* quita el hueco extra */
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #pie{
+    color: white;
+    text-align: center;
+    background-color: green;
+  }
